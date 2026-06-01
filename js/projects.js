@@ -57,6 +57,6 @@ const projects = [
     "Applied statistical methods to investment decisions."
   ],
   pdf: "pdfs/WK1_Lecture_Part1(1).pdf",
-  featured: false
+  featured: true
   }
 ];
