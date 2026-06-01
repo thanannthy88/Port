@@ -58,5 +58,5 @@ const projects = [
     ],
     pdf: "pdfs/breast-cancer-prediction.pdf",
     featured: true
-  },
+  }
 ];
