@@ -59,7 +59,6 @@ const projects = [
     pdf: "pdfs/breast-cancer-prediction.pdf",
     featured: true
   },
-  ,
 {
   id: "wk1-lecture-part1",
   title: "Portfolio Theory and Statistics Notes",
