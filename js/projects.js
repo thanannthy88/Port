@@ -58,5 +58,26 @@ const projects = [
     ],
     pdf: "pdfs/breast-cancer-prediction.pdf",
     featured: true
-  }
+  },
+  ,
+{
+  id: "wk1-lecture-part1",
+  title: "Portfolio Theory and Statistics Notes",
+  category: "Finance",
+  summary:
+    "Lecture notes covering expected return, risk, diversification, portfolio theory, and statistical concepts used in finance.",
+  tools: ["Finance", "Statistics"],
+  skills: [
+    "Portfolio Theory",
+    "Risk Analysis",
+    "Expected Return"
+  ],
+  keyFindings: [
+    "Introduced portfolio diversification concepts.",
+    "Covered expected return and risk measurements.",
+    "Applied statistical methods to investment decisions."
+  ],
+  pdf: "pdfs/WK1_Lecture_Part1(1).pdf",
+  featured: true
+}
 ];
